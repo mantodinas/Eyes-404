@@ -6,6 +6,7 @@
 
 404 page made with HTML, CSS and added gif.
 <br>Responcive design pc, tablet, mobile(phone).
+<br>Button hover pulsing animation.
 <br>Website was created to improve fron-end.
 
 Site published at https://mantodinas.github.io/Eyes-404/
